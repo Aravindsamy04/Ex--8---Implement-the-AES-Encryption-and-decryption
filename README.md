@@ -70,7 +70,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/47797281-b282-4bf3-9a23-667a9c8a1578)
+![Screenshot 2024-10-17 072247](https://github.com/user-attachments/assets/c516988f-816c-4111-972d-4b052dce10d5)
 
 ## RESULT:
 The program for AES algorithm is executed successfully.
